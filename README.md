@@ -25,7 +25,7 @@ Foi criada uma exceção personalizada chamada ParametrosInvalidosException. Ess
 ![TratamentoExcecao](https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/72772412-9328-4fb2-8d7f-14d8197a351a)
 </li>
 <li>
-<bold>>Método contar():</bold
+<bold>>Método contar():</bold>
 O método contar(int parametroUm, int parametroDois) lança a exceção ParametrosInvalidosException caso a validação não seja atendida.
 ![MétodoContar](https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/0b651790-8241-49d2-81a8-f9fb1f2a93c6)
 </li>
