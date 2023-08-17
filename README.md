@@ -22,7 +22,7 @@ O projeto utiliza tratamento de exceções para garantir uma execução mais rob
 <li>
 <bold>Exceção Personalizada ParametrosInvalidosException:</bold>
 Foi criada uma exceção personalizada chamada ParametrosInvalidosException. Essa exceção é lançada quando os parâmetros fornecidos não atendem à validação desejada.
-<img src="https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/0e8e93d6-8550-467a-bb7e-f5d3de367aab" alt="Imagem do Projeto">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71770176/261418483-0e8e93d6-8550-467a-bb7e-f5d3de367aab.png" alt="Imagem do Projeto">
 </li>
 
 <li>
