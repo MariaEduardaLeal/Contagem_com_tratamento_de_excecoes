@@ -22,8 +22,9 @@ O projeto utiliza tratamento de exceções para garantir uma execução mais rob
 <li>
 <bold>Exceção Personalizada ParametrosInvalidosException:</bold>
 Foi criada uma exceção personalizada chamada ParametrosInvalidosException. Essa exceção é lançada quando os parâmetros fornecidos não atendem à validação desejada.
-<img src="https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/raw/main/assets/71770176/72772412-9328-4fb2-8d7f-14d8197a351a.png" alt="Imagem do Projeto">
+<img src="https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/0e8e93d6-8550-467a-bb7e-f5d3de367aab" alt="Imagem do Projeto">
 </li>
+
 <li>
 <bold>Método contar():</bold>
 O método contar(int parametroUm, int parametroDois) lança a exceção ParametrosInvalidosException caso a validação não seja atendida.
