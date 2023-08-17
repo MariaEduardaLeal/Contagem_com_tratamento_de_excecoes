@@ -22,16 +22,17 @@ O projeto utiliza tratamento de exceções para garantir uma execução mais rob
 <li>
 <bold>Exceção Personalizada ParametrosInvalidosException:</bold>
 Foi criada uma exceção personalizada chamada ParametrosInvalidosException. Essa exceção é lançada quando os parâmetros fornecidos não atendem à validação desejada.
-![TratamentoExcecao](https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/72772412-9328-4fb2-8d7f-14d8197a351a)
+<img src="https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/raw/main/assets/71770176/72772412-9328-4fb2-8d7f-14d8197a351a.png" alt="Imagem do Projeto">
 </li>
 <li>
-<bold>>Método contar():</bold>
+<bold>Método contar():</bold>
 O método contar(int parametroUm, int parametroDois) lança a exceção ParametrosInvalidosException caso a validação não seja atendida.
-![MétodoContar](https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/0b651790-8241-49d2-81a8-f9fb1f2a93c6)
+<img src="https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/0b651790-8241-49d2-81a8-f9fb1f2a93c6" alt="Imagem do Projeto">
 </li>
 <li>
 <bold>Bloco try-catch no Método main():</bold>
 O método main() envolve a chamada do método contar() em um bloco try-catch. Isso permite capturar a exceção ParametrosInvalidosException e exibir uma mensagem de erro apropriada.
-![Blobo_Try_Catch](https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/f1b5a8a4-d3b7-4a09-a87f-7a9792871584)
+<img src="https://github.com/MariaEduardaLeal/Contagem_com_tratamento_de_excecoes/assets/71770176/f1b5a8a4-d3b7-4a09-a87f-7a9792871584" alt="Imagem do Projeto">
+
 </li>
 </ol>
